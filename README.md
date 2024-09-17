@@ -43,4 +43,4 @@ This is a mobile app that allows users to write, edit, delete, and interact with
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Bhairava16/Blog-App.git
